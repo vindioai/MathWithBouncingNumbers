@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="images/MathWithBouncingNumbers.png" width="200">
+  <img src="images/mathwithbouncingnumberslogo.png" width="200">
 </p>
 
 # Math With Bouncing Numbers 
