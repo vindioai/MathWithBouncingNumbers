@@ -12,7 +12,7 @@
 Math With Bouncing Numbers respects your privacy. This document explains how the app handles data and permissions.
 
 ### 1. Internet Access
-- The app uses the internet to retrieve product, barcode, and ingredient information from the Open Food Facts public database.
+- The app uses the internet to display advertisements.
 - No personal user data is transmitted by the app.
 
 ### 2. Ads & Monetization
@@ -23,7 +23,7 @@ Math With Bouncing Numbers respects your privacy. This document explains how the
 ### 3. User Rights (GDPR)
 - If you are located in the EEA, UK, or Switzerland, you have rights under the GDPR.
 - You may request access to, correction of, or deletion of your personal data.
-- You can withdraw your consent at any time via: Settings → Privacy → Manage Ad Preferences.
+- You can withdraw your consent at any time via: Settings → Ad Preferences.
 - You have the right to object to the processing of your personal data
 - You have the right to lodge a complaint with your local data protection authority.
 
