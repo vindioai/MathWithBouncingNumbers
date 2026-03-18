@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="images/cover photo.png" width="200">
+  <img src="images/mathwithbouncingnumberslogo.png" width="200">
 </p>
 
 # Math With Bouncing Numbers 
@@ -55,13 +55,13 @@ For questions or concerns regarding this Privacy Policy, please contact:
 
 ## App Screenshots
 <p align="left">
-  <img src="images/Googleplaystore_screen1.png" width="200">
-  <img src="images/Googleplaystore_screen2.png" width="200">
-  <img src="images/Googleplaystore_screen3.png" width="200">
-  <img src="images/Googleplaystore_screen4.png" width="200">
-  <img src="images/Googleplaystore_screen5.png" width="200">
-  <img src="images/Googleplaystore_screen6.png" width="200">
-  <img src="images/Googleplaystore_screen7.png" width="200">
-  <img src="images/Googleplaystore_screen8.png" width="200">
+  <img src="images/playstorescreen_1.png" width="200">
+  <img src="images/playstorescreen_2.png" width="200">
+  <img src="images/playstorescreen_3.png" width="200">
+  <img src="images/playstorescreen_4.png" width="200">
+  <img src="images/playstorescreen_5.png" width="200">
+  <img src="images/playstorescreen_6.png" width="200">
+  <img src="images/playstorescreen_7.png" width="200">
+  <img src="images/playstorescreen_8.png" width="200">
 </p>
 
